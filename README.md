@@ -1,2 +1,2 @@
 # D8S.L0017
-.NET foundation library.
+.NET Standard 2.1 foundation library.
